@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lombardy Energy Insights & Company Finder",
+  "description": "An advanced AI-powered dashboard for identifying companies in Lombardy via Google Maps, estimating electricity consumption using Gemini reasoning, and categorizing them for industrial energy auditing.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
